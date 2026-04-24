@@ -68,4 +68,3 @@ This suggests that the model can generalize beyond the original dataset to some 
 - test more real-world articles from different news sources
 - compare results after removing source-identifying language
 - try additional models such as Linear SVM or DistilBERT
-- build a small interactive app for user input
