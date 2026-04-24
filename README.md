@@ -14,7 +14,7 @@ The workflow includes:
 The goal is not only to build an accurate classifier, but also to better understand how the model makes decisions and how well it generalizes beyond the training data.
 
 ## Dataset
-This project uses the Kaggle **Fake and Real News Dataset**, which is distributed as two CSV files:
+This project uses the Kaggle **Fake and Real News Dataset**(Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset), which is distributed as two CSV files:
 - `Fake.csv`
 - `True.csv`
 
